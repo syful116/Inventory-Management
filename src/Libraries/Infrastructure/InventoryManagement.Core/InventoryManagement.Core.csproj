@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="MediatR" Version="12.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\InventoryManagement.Model\InventoryManagement.Model.csproj" />
+    <ProjectReference Include="..\..\Domain\InventoryManagement.Repositories\InventoryManagement.Repositories.csproj" />
+    <ProjectReference Include="..\InventoryManagement.Infrastructure\InventoryManagement.Infrastructure.csproj" />
+    <ProjectReference Include="..\InventoryManagement.Services.Model\InventoryManagement.Services.Model.csproj" />
+  </ItemGroup>
+
+</Project>

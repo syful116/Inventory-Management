@@ -1,0 +1,12 @@
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Domain\InventoryManagement.Shared\bin\Debug\net6.0\InventoryManagement.Shared.deps.json
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Domain\InventoryManagement.Shared\bin\Debug\net6.0\InventoryManagement.Shared.dll
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Domain\InventoryManagement.Shared\bin\Debug\net6.0\InventoryManagement.Shared.pdb
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Domain\InventoryManagement.Shared\obj\Debug\net6.0\InventoryManagement.Shared.csproj.AssemblyReference.cache
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Domain\InventoryManagement.Shared\obj\Debug\net6.0\InventoryManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Domain\InventoryManagement.Shared\obj\Debug\net6.0\InventoryManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Domain\InventoryManagement.Shared\obj\Debug\net6.0\InventoryManagement.Shared.AssemblyInfo.cs
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Domain\InventoryManagement.Shared\obj\Debug\net6.0\InventoryManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Domain\InventoryManagement.Shared\obj\Debug\net6.0\InventoryManagement.Shared.dll
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Domain\InventoryManagement.Shared\obj\Debug\net6.0\refint\InventoryManagement.Shared.dll
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Domain\InventoryManagement.Shared\obj\Debug\net6.0\InventoryManagement.Shared.pdb
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Domain\InventoryManagement.Shared\obj\Debug\net6.0\ref\InventoryManagement.Shared.dll

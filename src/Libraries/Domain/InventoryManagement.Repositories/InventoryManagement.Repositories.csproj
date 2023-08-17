@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\InventoryManagement.Infrastructure\InventoryManagement.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\InventoryManagement.Services.Model\InventoryManagement.Services.Model.csproj" />
+    <ProjectReference Include="..\InventoryManagement.Model\InventoryManagement.Model.csproj" />
+    <ProjectReference Include="..\InventoryManagement.Shared\InventoryManagement.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

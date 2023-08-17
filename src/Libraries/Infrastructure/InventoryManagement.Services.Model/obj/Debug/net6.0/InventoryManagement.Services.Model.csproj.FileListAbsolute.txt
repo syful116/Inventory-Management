@@ -1,0 +1,15 @@
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\bin\Debug\net6.0\InventoryManagement.Services.Model.deps.json
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\bin\Debug\net6.0\InventoryManagement.Services.Model.dll
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\bin\Debug\net6.0\InventoryManagement.Services.Model.pdb
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\obj\Debug\net6.0\InventoryManagement.Services.Model.csproj.AssemblyReference.cache
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\obj\Debug\net6.0\InventoryManagement.Services.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\obj\Debug\net6.0\InventoryManagement.Services.Model.AssemblyInfoInputs.cache
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\obj\Debug\net6.0\InventoryManagement.Services.Model.AssemblyInfo.cs
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\obj\Debug\net6.0\InventoryManagement.Services.Model.csproj.CoreCompileInputs.cache
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\obj\Debug\net6.0\InventoryManagement.Services.Model.dll
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\obj\Debug\net6.0\refint\InventoryManagement.Services.Model.dll
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\obj\Debug\net6.0\InventoryManagement.Services.Model.pdb
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\obj\Debug\net6.0\ref\InventoryManagement.Services.Model.dll
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\bin\Debug\net6.0\InventoryManagement.Shared.dll
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\bin\Debug\net6.0\InventoryManagement.Shared.pdb
+C:\Users\Cloud\source\repos\IVM\InventoryManagement\src\Libraries\Infrastructure\InventoryManagement.Services.Model\obj\Debug\net6.0\InventoryManagement.Services.Model.csproj.CopyComplete
