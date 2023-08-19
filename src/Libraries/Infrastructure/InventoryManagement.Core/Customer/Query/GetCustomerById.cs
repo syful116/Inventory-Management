@@ -10,10 +10,7 @@ public class GetCustomerByIdHandler : IRequestHandler<GetCustomerById, VmCustome
 
 
     private readonly ICustomerRepository _customerRepository;
-    public GetCustomerByIdHandler(ICustomerRepository customerRepository)
-    {
-        _customerRepository = customerRepository;
-    }
+    public GetCustomerByIdHandler(ICustomerRepository customerRepository) => _customerRepository = customerRepository;
     public async Task<VmCustomer> Handle(GetCustomerById request, CancellationToken cancellationToken)
     {
         return await _customerRepository.GetById(request.id);

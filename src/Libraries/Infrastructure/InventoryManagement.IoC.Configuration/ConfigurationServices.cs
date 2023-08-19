@@ -19,6 +19,7 @@ public static class ConfigurationServices
 
 
         services.AddTransient<ICustomerRepository, CustomerRepository>();
+        services.AddTransient<ISellsRepository, SellsRepository>();
 
         services.AddAutoMapper(typeof(CommonMapper).Assembly);
         services.AddMediatR(options => options.RegisterServicesFromAssemblies(typeof(ICore).Assembly));
